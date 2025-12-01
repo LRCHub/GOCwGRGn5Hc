@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Full Moon Full Life -Opening Movie Version-",
+  "base_artist": "Azumi Takahashi、Lotus Juice、アトラスサウンドチーム",
+  "createdAt": "2025-12-01T23:07:48.621120Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Full Moon Full Life -Opening Movie version-",
+      "artist": "アトラスサウンドチーム",
+      "has_synced": true,
+      "path": "select/01_Full_Moon_Full_Life_-Opening_Movie_version-_アトラスサウンドチーム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Full Moon Full Life -Opening Movie Version-",
+      "artist": "Azumi Takahashi",
+      "has_synced": true,
+      "path": "select/02_Full_Moon_Full_Life_-Opening_Movie_Version-_Azumi_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Full Moon Full Life - Opening Movie Version",
+      "artist": "アトラスサウンドチーム",
+      "has_synced": true,
+      "path": "select/03_Full_Moon_Full_Life_-_Opening_Movie_Version_アトラスサウンドチーム.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Full Moon Full Life -Opening Movie version-",
+      "artist": "Atlus",
+      "has_synced": true,
+      "path": "select/04_Full_Moon_Full_Life_-Opening_Movie_version-_Atlus.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Full Moon Full Life - Opening Movie Version",
+      "artist": "Azumi Takahashi",
+      "has_synced": true,
+      "path": "select/05_Full_Moon_Full_Life_-_Opening_Movie_Version_Azumi_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Full Moon Full Life -Opening Movie Version-",
+      "artist": "Lotus Juice",
+      "has_synced": true,
+      "path": "select/06_Full_Moon_Full_Life_-Opening_Movie_Version-_Lotus_Juice.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Full Moon Full Life (Opening Movie Version)",
+      "artist": "Azumi Takahashi, Lotus Juice",
+      "has_synced": true,
+      "path": "select/07_Full_Moon_Full_Life_(Opening_Movie_Version)_Azumi_Takahashi,_Lotus_Juice.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Full Moon Full Life -Opening Movie version-",
+      "artist": "Azumi Takahashi, Lotus Juice",
+      "has_synced": true,
+      "path": "select/08_Full_Moon_Full_Life_-Opening_Movie_version-_Azumi_Takahashi,_Lotus_Juice.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Full Moon Full Life -Opening Movie Version-",
+      "artist": "Azumi Takahashi / Lotus Juice",
+      "has_synced": true,
+      "path": "select/09_Full_Moon_Full_Life_-Opening_Movie_Version-_Azumi_Takahashi___Lotus_Juice.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Full Moon Full Life -Opening Movie version-",
+      "artist": "Lotus Juice & 高橋あず美",
+      "has_synced": true,
+      "path": "select/10_Full_Moon_Full_Life_-Opening_Movie_version-_Lotus_Juice_&_高橋あず美.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Full Moon Full Life - Opening Movie Version",
+      "artist": "高橋あず美, Lotus Juice, アトラスサウンドチーム, ATLUS GAME MUSIC",
+      "has_synced": false,
+      "path": "select/pl_01_Full_Moon_Full_Life_-_Opening_Movie_Version_高橋あず美,_Lotus_Juice,_アトラスサウンドチーム,_ATLUS_GAME_MUSIC.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Full Moon Full Life -Opening Movie Version-",
+      "artist": "高橋あず美, Lotus Juice, アトラスサウンドチーム, ATLUS GAME MUSIC",
+      "has_synced": false,
+      "path": "select/pl_02_Full_Moon_Full_Life_-Opening_Movie_Version-_高橋あず美,_Lotus_Juice,_アトラスサウンドチーム,_ATLUS_GAME_MUSIC.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Full Moon Full Life -Opening Movie Version-",
+      "artist": "高橋あず美, Lotus Juice, アトラスサウンドチーム, ATLUS GAME MUSIC",
+      "has_synced": false,
+      "path": "select/pl_03_Full_Moon_Full_Life_-Opening_Movie_Version-_高橋あず美,_Lotus_Juice,_アトラスサウンドチーム,_ATLUS_GAME_MUSIC.txt"
+    }
+  ]
+}
